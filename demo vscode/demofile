@@ -1,0 +1,7 @@
+ansible.cfg
+ansible-navigator.yml
+inventory
+roles
+collections
+group_vars
+host_vars
